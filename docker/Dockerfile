@@ -2,7 +2,7 @@ FROM debian:jessie
 MAINTAINER Jordi Gimenez <info@mobilejazz.com>
 
 ENV REFRESHED_AT 2017-10-13
-ENV SWAN_VER 3.21
+ENV SWAN_VER 3.25
 
 WORKDIR /opt/src
 
